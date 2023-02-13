@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 Ogunjobi Moshood | Email:(ogunjobimoshoodo@gmail.com) 
 
-Bamgbala Wasiu
+Bamgbala Wasiu | Email:(bamgbala.wasiu@gmail.com)
